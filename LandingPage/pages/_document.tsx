@@ -1,16 +1,13 @@
 import React from 'react';
-import Document, {
-  DocumentContext,
-  Html,
-  Head,
-  Main,
-  NextScript,
-} from 'next/document';
+// eslint-disable-next-line @next/next/no-document-import-in-page
+import { Html, Head, Main, NextScript } from 'next/document';
 
 export default function Document() {
   return (
     <Html>
       <Head>
+        <title>Vicinia</title>
+        <link rel="icon" href="/favicon.ico" />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <link rel="shortcut icon" href="default-icon.png" />
         <meta name="title" content="" />
