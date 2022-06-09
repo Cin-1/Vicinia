@@ -3,8 +3,8 @@
   "editor.formatOnSave": true,
   "typescript.tsdk": "./node_modules/typescript/lib",
   "workbench.colorCustomizations": {
-    "activityBar.background": "#00B0A7",
-    "titleBar.activeBackground": "#00B0A7",
+    "activityBar.background": "#5E7C3B",
+    "titleBar.activeBackground": "#5E7C3B",
     "titleBar.activeForeground": "#FFFBFC"
   }
 }
