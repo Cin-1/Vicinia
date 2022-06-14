@@ -1,15 +1,15 @@
+/* eslint-disable @next/next/no-document-import-in-page */
+/* eslint-disable @next/next/no-title-in-document-head */
 import React from 'react';
-// eslint-disable-next-line @next/next/no-document-import-in-page
 import { Html, Head, Main, NextScript } from 'next/document';
 
 export default function Document() {
   return (
     <Html>
       <Head>
-        <title>Vicinia</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/PNG/icono-corazon-1.png" />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
-        <link rel="shortcut icon" href="default-icon.png" />
+        <link rel="shortcut icon" href="/PNG/icono-corazon-1.png" />
         <meta name="title" content="" />
         <meta name="description" content="" />
         <meta property="og:title" content="" />

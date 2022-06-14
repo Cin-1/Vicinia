@@ -1,7 +1,8 @@
 import React from 'react';
+import NavBar from './NavBar';
 
-const Header = () => {
-  return <div className="bg-primary py-3">Header</div>;
+const Header = (): JSX.Element => {
+  return <NavBar />;
 };
 
 export default Header;
