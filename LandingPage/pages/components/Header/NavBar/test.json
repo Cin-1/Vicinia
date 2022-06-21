@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "text": "Link 1",
+      "url": "https://google.com"
+    },
+    {
+      "text": "Link 2",
+      "url": "https://google.com"
+    },
+    {
+      "text": "Link 3",
+      "url": "https://google.com"
+    },
+    {
+      "text": "Link 4",
+      "url": "https://google.com"
+    }
+  ]
+}
